@@ -1,0 +1,4 @@
+node_modules
+dist
+pedidos.json
+.env
